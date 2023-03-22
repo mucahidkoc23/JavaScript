@@ -1,0 +1,33 @@
+nav{
+ background-color: aliceblue;
+ display:flex;
+ justify-content: center;
+}
+div{
+  display: flex;
+}
+.nav-links{
+  display: flex;
+  position: relative;
+  left: 200px;
+
+}
+h4{
+  font-size: 20px;
+  position: relative;
+  left: -200px;
+}
+li{
+  list-style-type:none ;
+  margin-left: 10px;
+}
+main{
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+}
+.btn{
+  background-color: cadetblue;
+  padding: 15px 32px;
+
+}
